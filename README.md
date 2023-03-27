@@ -26,9 +26,6 @@ My name is Matheus Cardoso and I'm a Computer Engineering Student 👨‍🎓 cu
   
 </div>
 
-## 📈 Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhscardoso&hide=prs&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mhscardoso/mhscardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
