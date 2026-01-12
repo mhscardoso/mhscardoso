@@ -14,7 +14,6 @@ My name is Matheus Cardoso and I'm a Computer Engineering Student 👨‍🎓 cu
   <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"> 
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
   <img align="center" alt="LaTeX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
